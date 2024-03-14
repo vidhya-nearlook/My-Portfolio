@@ -1,0 +1,194 @@
+h1 span {
+  color: rgb(232, 36, 36);
+}
+
+.nav {
+  border-style: solid;
+  background-color: rgb(105, 103, 107);
+  color: aliceblue;
+  height: 80px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  padding-top: 20px;
+}
+li {
+  display: inline;
+  padding-left: 80px;
+  position: relative;
+  left: 300px;
+  padding-top: 20px;
+}
+ol li a {
+  color: aliceblue;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+}
+
+.nav h1 {
+  color: aliceblue;
+}
+
+.nav ol li {
+  color: aliceblue;
+}
+.index button {
+  background-color: brown;
+  color: aliceblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: black;
+  margin-left: 300px;
+}
+.index {
+  height: 800px;
+  padding-top: 100px;
+  text-align: left;
+  text-align: justify;
+}
+
+.index {
+  height: 800px;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.index h1 {
+  font-size: 60px;
+  text-indent: 200px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-top: 5px;
+}
+.index h3 {
+  font-size: 30px;
+  text-indent: 170px;
+  font-weight: lighter;
+  padding-bottom: 20px;
+  color: rgb(7, 7, 96);
+}
+.index p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  text-align: left;
+  text-align: justify;
+  text-indent: 40px;
+  padding-left: 130px;
+  padding-bottom: 10px;
+  line-height: 1.5;
+}
+.about {
+  height: 800px;
+  text-align: center;
+  text-align: justify;
+}
+.about h1 {
+  padding-top: 150px;
+  font-size: 60px;
+}
+.about h3 {
+  font-size: 30px;
+  font-weight: lighter;
+  color: rgb(7, 7, 96);
+}
+.about p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+
+  text-align: justify;
+  text-indent: 50px;
+  width: 600px;
+  padding-bottom: 10px;
+  line-height: 1.5;
+}
+.about img {
+  padding-top: 20px;
+}
+
+.edu {
+  height: 800px;
+  padding-top: 150px;
+  text-align: left;
+
+  text-align: justify;
+}
+.edu h1 {
+  font-size: 60px;
+  text-indent: 200px;
+}
+.edu h3 {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(7, 7, 96);
+  text-indent: 270px;
+}
+.edu h5 {
+  font-size: 25px;
+  font-weight: bold;
+  text-indent: 120px;
+}
+.edu p {
+  text-indent: 150px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.edu button {
+  background-color: brown;
+  color: aliceblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: black;
+  margin-left: 250px;
+}
+.skills {
+  float: left;
+}
+.coding {
+  position: absolute;
+}
+.coding h3 {
+  text-indent: 600px;
+}
+.skills h1 {
+  font-size: 60px;
+}
+.skills button {
+  background-color: brown;
+  color: aliceblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: black;
+}
+.skills button h2 a {
+  color: aliceblue;
+  text-decoration: none;
+}
+.skills h3 {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(7, 7, 96);
+}
+.skills p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+}
+*image {
+}
+.contact {
+}
